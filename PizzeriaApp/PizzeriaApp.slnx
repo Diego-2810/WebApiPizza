@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BackendAPI/BackendAPI.csproj" />
+  <Project Path="ClienteConsole/ClienteConsole.csproj" />
+  <Project Path="CocinaService/CocinaService.csproj" />
+  <Project Path="RepartoService/RepartoService.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
