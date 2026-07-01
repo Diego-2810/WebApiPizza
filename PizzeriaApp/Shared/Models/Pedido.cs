@@ -11,5 +11,5 @@ public class Pedido
     public EstadoPedido EstadoPedido { get; set; } 
     public string Detalles { get; set; }
     public bool Pagado { get; set; }
-    public int Total { get; set; }
+    public decimal Total { get; set; }
 }

@@ -8,25 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {}
+    "C:\\Users\\Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repo\\WebApiPizza\\PizzeriaApp\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Documents\\Repos\\WebApiPizza\\PizzeriaApp\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "E:\\Repo\\WebApiPizza\\PizzeriaApp\\Shared\\Shared.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "E:\\Repo\\WebApiPizza\\PizzeriaApp\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\Diego\\Documents\\Repos\\WebApiPizza\\PizzeriaApp\\Shared\\Shared.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diego\\Documents\\Repos\\WebApiPizza\\PizzeriaApp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net10.0": {
