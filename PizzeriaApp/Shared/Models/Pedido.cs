@@ -8,7 +8,7 @@ public class Pedido
     public int PizzaId { get; set; }
     public Pizza Pizza { get; set; }
     public DateTime Fecha { get; set; }
-    public EstadoPedido EstadoPedido { get; set; } 
+    public EstadoPedidos EstadoPedidos { get; set; } 
     public string Detalles { get; set; }
     public bool Pagado { get; set; }
     public decimal Total { get; set; }

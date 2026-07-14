@@ -1,6 +1,6 @@
 ﻿namespace Shared;
 
-public enum EstadoPedido
+public enum EstadoPedidos
 {
     Entregado,
     Pendiente,
